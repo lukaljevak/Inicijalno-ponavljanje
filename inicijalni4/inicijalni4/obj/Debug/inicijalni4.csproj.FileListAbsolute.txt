@@ -1,0 +1,7 @@
+C:\Users\Ucenik\source\repos\inicijalni4\inicijalni4\bin\Debug\inicijalni4.exe.config
+C:\Users\Ucenik\source\repos\inicijalni4\inicijalni4\bin\Debug\inicijalni4.exe
+C:\Users\Ucenik\source\repos\inicijalni4\inicijalni4\bin\Debug\inicijalni4.pdb
+C:\Users\Ucenik\source\repos\inicijalni4\inicijalni4\obj\Debug\inicijalni4.csproj.AssemblyReference.cache
+C:\Users\Ucenik\source\repos\inicijalni4\inicijalni4\obj\Debug\inicijalni4.csproj.CoreCompileInputs.cache
+C:\Users\Ucenik\source\repos\inicijalni4\inicijalni4\obj\Debug\inicijalni4.exe
+C:\Users\Ucenik\source\repos\inicijalni4\inicijalni4\obj\Debug\inicijalni4.pdb
