@@ -1,0 +1,7 @@
+C:\Users\Ucenik\source\repos\inicijalni3\inicijalni3\bin\Debug\inicijalni3.exe.config
+C:\Users\Ucenik\source\repos\inicijalni3\inicijalni3\bin\Debug\inicijalni3.exe
+C:\Users\Ucenik\source\repos\inicijalni3\inicijalni3\bin\Debug\inicijalni3.pdb
+C:\Users\Ucenik\source\repos\inicijalni3\inicijalni3\obj\Debug\inicijalni3.csproj.AssemblyReference.cache
+C:\Users\Ucenik\source\repos\inicijalni3\inicijalni3\obj\Debug\inicijalni3.csproj.CoreCompileInputs.cache
+C:\Users\Ucenik\source\repos\inicijalni3\inicijalni3\obj\Debug\inicijalni3.exe
+C:\Users\Ucenik\source\repos\inicijalni3\inicijalni3\obj\Debug\inicijalni3.pdb
